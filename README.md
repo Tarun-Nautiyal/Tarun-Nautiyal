@@ -25,10 +25,11 @@
 ---
 
 ## 📈 GitHub Stats
+
 ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical](https://vercel.com/interior-designings-projects?repo=https://github.com/Tarun-Nautiyal/Zomato-Landing-Page)
 
 
 ---
 ## 🌍 Let's Connect
-- 💼 [LinkedIn](tarun-nautiyal-b9150a316)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarun-nautiyal-b9150a316/)  
 - ✉️ Email: tarun.nautiyal30@gmail.com  
