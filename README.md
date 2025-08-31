@@ -44,8 +44,7 @@
 ## 🌍 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tarun-nautiyal-b9150a316/)  
-- 🐦 [Twitter](https://twitter.com/) *(add your handle)*  
-- ✉️ Email: your-email@gmail.com  
+- ✉️ Email: tarun.nautiyal30@gmail.com  
 
 ---
 
